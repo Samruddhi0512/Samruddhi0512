@@ -44,17 +44,8 @@
 
 ---
 
-### 📫 **Let's Connect**
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
----
+
 
 <p align="center">
   ✨ Crafted with love & code ✨
