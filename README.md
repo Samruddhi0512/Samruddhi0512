@@ -64,7 +64,6 @@ Passionate about turning ideas into real-world applications.
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/>
 </p>
 
-- 📱 Android app development using **Java**
 - 🌐 Personal portfolio website using **HTML, CSS & JavaScript**
 - 📚 Strengthening **DSA, OOP & DBMS concepts**
 - 🤝 Exploring **Open Source contributions**
@@ -73,10 +72,6 @@ Passionate about turning ideas into real-world applications.
 
 ## ❤️ What I Love
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
-</p>
-
 - 🎨 Designing clean and user-friendly interfaces  
 - 🧠 Learning new technologies step by step  
 - 💡 Problem-solving and logical thinking  
@@ -84,9 +79,15 @@ Passionate about turning ideas into real-world applications.
 ---
 
 ## 🌱 Currently Learning
+
+
 - Advanced **Data Structures in C++**
 - **Database Management Systems**
 - Basics of **UI/UX design**
+
+  <p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120"/>
+</p>
 
 ---
 
