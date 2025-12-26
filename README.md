@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center">Hi there, I'm Samruddhi 👋</h1>
+<h1 align="center">Hii there, I'm Samruddhi 👋</h1>
 
 <p align="center">
 🎓 Computer Engineering Student | 💻 Tech Enthusiast | 🎨 UI/UX Learner <br>
