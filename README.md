@@ -1,19 +1,22 @@
 <!-- Header GIF -->
-
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70%" />
 </p>
-
-
-
 
 <h1 align="center">Hii there, I'm Samruddhi 👋</h1>
 
 <p align="center">
 🎓 Computer Engineering Student | 💻 Tech Enthusiast | 🎨 UI/UX Learner <br>
 Passionate about turning ideas into real-world applications.
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samruddhi0512&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhi0512&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -49,12 +52,24 @@ Passionate about turning ideas into real-world applications.
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🧠 Core CS Knowledge
+### 🧠 AI / ML & Core CS Concepts
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge"/>
+</p>
+
 - Data Structures & Algorithms  
 - Object-Oriented Programming (OOP)  
 - DBMS  
+
+### 🎨 Design & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
@@ -65,6 +80,7 @@ Passionate about turning ideas into real-world applications.
 </p>
 
 - 🌐 Personal portfolio website using **HTML, CSS & JavaScript**
+- 🤖 Exploring **AI & ML concepts** through academic and EDI projects
 - 📚 Strengthening **DSA, OOP & DBMS concepts**
 - 🤝 Exploring **Open Source contributions**
 
@@ -80,12 +96,12 @@ Passionate about turning ideas into real-world applications.
 
 ## 🌱 Currently Learning
 
-
 - Advanced **Data Structures in C++**
 - **Database Management Systems**
-- Basics of **UI/UX design**
+- Basics of **AI & Machine Learning**
+- **UI/UX design principles**
 
-  <p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120"/>
 </p>
 
@@ -95,8 +111,6 @@ Passionate about turning ideas into real-world applications.
 > **Patience + Persistence = Progress** 🚀
 
 ---
-
-
 
 <p align="center">
 ✨ Crafted with love & code ✨
